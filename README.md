@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osayl12&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osayl12&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+<img height="180em" src="./profile/stats.svg" />
+<img height="180em" src="./profile/langs.svg" />
 </div>
 
 ---
