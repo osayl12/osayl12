@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/osayl12/osayl12/refs/heads/output/github-contribution-grid-snake.svg)
+![Snake animation](https://osayl12.vercel.app/api?username=osayl12)
 
 </div>
 
