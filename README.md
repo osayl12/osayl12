@@ -61,10 +61,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Osayl's GitHub stats](https://github-readme-stats.vercel.app/api?username=osayl12&show_icons=true&hide_border=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osayl12&layout=compact&hide_border=true&theme=radical)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osayl12&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osayl12&layout=compact&hide_border=true&theme=radical&langs_count=8" />
 </div>
 
 ---
@@ -73,7 +71,8 @@
 
 <div align="center">
 
-![Snake animation](https://osayl12.vercel.app/api?username=osayl12)
+![Snake animation Light](https://raw.githubusercontent.com/osayl12/osayl12/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation Dark](https://raw.githubusercontent.com/osayl12/osayl12/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
