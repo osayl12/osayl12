@@ -58,10 +58,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-<img height="180em" src="./profile/stats.svg" />
 <img height="180em" src="./profile/langs.svg" />
 </div>
 
